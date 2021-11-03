@@ -1,5 +1,5 @@
 [
-	HOW TO USE THIS DEMO
+	HOW TO USE THIS DEMO 
 	1. Read it and refer to it for working examples of how to achieve
 	2. Carefully copy sections into your proejct and modify it
 
